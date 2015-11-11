@@ -1,0 +1,25 @@
+{
+	"name": "okvee/profiler",
+	"version": "0.1",
+	"type": "library",
+	"description": "profiling your php application",
+	"keywords": ["profiling", "profiler", "benchmark", "performance test", "memory usage", "logger"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Vee W.",
+			"email": "kawewong@gmail.com",
+			"homepage": "http://okvee.net",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"okvee/number": "~1"
+	},
+	"autoload": {
+		"psr-4": {
+			"Okvee\\Profiler\\" : "Okvee/Profiler"
+		}
+	}
+}
