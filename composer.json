@@ -1,6 +1,6 @@
 {
 	"name": "okvee/profiler",
-	"version": "0.1",
+	"version": "1.0",
 	"type": "library",
 	"description": "profiling your php application",
 	"keywords": ["profiling", "profiler", "benchmark", "performance test", "memory usage", "logger"],
